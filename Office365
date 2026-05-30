@@ -1,0 +1,15 @@
+# Office365 Enumeration
+
+## GetUserRealm API
+
+Purpose:
+Identify whether a Microsoft 365 tenant exists.
+
+Example:
+
+https://login.microsoftonline.com/getuserrealm.srf?login=username@company.onmicrosoft.com&xml=1
+
+Use Cases:
+- Tenant discovery
+- Cloud reconnaissance
+- Office365 identification
