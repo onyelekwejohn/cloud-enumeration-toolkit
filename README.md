@@ -1,8 +1,5 @@
 # cloud-enumeration-toolkit
 Cloud reconnaissance, Microsoft 365 enumeration, username validation, and authentication research tools used for penetration testing and security assessments.
-# Cloud Enumeration Toolkit
-
-A curated collection of tools, references, and notes for cloud reconnaissance, Microsoft 365 enumeration, username discovery, and authentication testing during authorized penetration testing engagements.
 
 ## Microsoft 365 Username Enumeration
 
