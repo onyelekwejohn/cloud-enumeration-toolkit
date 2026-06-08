@@ -18,6 +18,13 @@ https://login.microsoftonline.com/company.onmicrosoft.com/.well-known/openid-con
 * Identify authentication endpoints
 * Obtain tenant identifiers
 
+# Information That May Be Identified
+- Tenant existence
+- Authentication endpoints
+- Token endpoints
+- Federation configuration
+- OpenID metadata
+
 # Tenant ID Discovery
 A tenant ID can often be identified using:
 https://www.whatismytenantid.com
