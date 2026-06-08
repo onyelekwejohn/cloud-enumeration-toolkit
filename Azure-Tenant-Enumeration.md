@@ -50,6 +50,7 @@ Get-AADIntTenantDomains -Domain targetdomain.com
 
 ## Example
 Get-AADIntTenantDomains -Domain rabobank.nl
+
 Get-AADIntLoginInformation -UserName user@company.com
 
 ## Purpose
