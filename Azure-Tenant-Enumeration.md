@@ -49,8 +49,8 @@ https://github.com/Gerenios/AADInternals
 Get-AADIntTenantDomains -Domain targetdomain.com
 
 ## Example
-## powershell
 Get-AADIntTenantDomains -Domain rabobank.nl
+Get-AADIntLoginInformation -UserName user@company.com
 
 ## Purpose
 * Enumerate internal tenant domains
