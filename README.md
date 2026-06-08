@@ -6,6 +6,33 @@
 - Microsoft Graph Overview
 - Cloud Exploitation Resources
 
+## Azure Storage Security
+Topics covered:
+
+- Shared Access Signatures (SAS)
+- Access Keys
+- Storage Account Security
+- Key Rotation
+- Azure Storage Authentication
+
+## Cloud Storage Reconnaissance
+Topics covered:
+
+- Storage Account Discovery
+- Public Cloud Asset Enumeration
+- CloudEnum
+- CloudBrute
+
+## Cloud Enumeration Tools
+
+| Tool | Purpose |
+|--------|----------|
+| CloudEnum | Cloud asset discovery |
+| CloudBrute | Cloud storage and application enumeration |
+| AADInternals | Azure tenant reconnaissance |
+| o365creeper | Office 365 username validation |
+| Oh365UserFinder | Office 365 enumeration |
+
 ## Disclaimer
 This repository is intended for educational purposes, cloud security research, penetration testing training, and authorized security assessments only.
 
