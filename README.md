@@ -33,6 +33,27 @@ Topics covered:
 | o365creeper | Office 365 username validation |
 | Oh365UserFinder | Office 365 enumeration |
 
+## Azure Enumeration
+Topics Covered
+
+- Azure subscriptions
+- Resource groups
+- Azure resources
+- Role assignments
+- Entra ID visibility
+
+## Azure Assessment Tools
+
+| Tool | Purpose |
+|--------|----------|
+| Az PowerShell | Azure administration and enumeration |
+| AADInternals | Azure identity assessment |
+| ROADTools | Entra ID reconnaissance |
+| PowerZure | Azure security assessment |
+| MicroBurst | Azure assessment toolkit |
+| AzureHound | Azure BloodHound collection |
+| ScoutSuite | Multi-cloud auditing |
+
 ## Disclaimer
 This repository is intended for educational purposes, cloud security research, penetration testing training, and authorized security assessments only.
 
