@@ -54,6 +54,35 @@ Topics Covered
 | AzureHound | Azure BloodHound collection |
 | ScoutSuite | Multi-cloud auditing |
 
+### Identity & Access Security
+- Entra ID Assessment
+- MFA Security Validation
+- Token Analysis
+- Managed Identity Review
+
+### Cloud Resource Assessment
+- Azure Storage
+- Virtual Machines
+- Azure Functions
+- Automation Accounts
+- Key Vault Security
+
+### Security Tooling
+- ROADTools
+- AADInternals
+- MFASweep
+- Mimikatz
+- Evilginx2
+
+### Focus Areas
+- Azure Enumeration
+- Microsoft Graph
+- Identity Security
+- Access Control Reviews
+- Token Research
+- Managed Identity Security
+- Cloud Persistence Detection
+
 ## Disclaimer
 This repository is intended for educational purposes, cloud security research, penetration testing training, and authorized security assessments only.
 
