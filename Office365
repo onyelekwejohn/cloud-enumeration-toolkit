@@ -1,7 +1,6 @@
 # Office365 Enumeration
 
 ## GetUserRealm API
-
 Purpose:
 Identify whether a Microsoft 365 tenant exists.
 
